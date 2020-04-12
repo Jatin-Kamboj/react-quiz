@@ -1,0 +1,11 @@
+.selected {
+  background-color: aqua !important;
+}
+
+.selectedAnswer {
+  cursor: not-allowed !important;
+}
+
+.cursorPointer {
+  cursor: pointer;
+}
